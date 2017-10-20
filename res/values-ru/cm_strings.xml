@@ -56,4 +56,14 @@
   <!-- Call-log count in one call-log group. Call location and call date. -->
   <!--Toast msg when user select too many contacts to merge-->
   <!-- merge contacts -->
+    <string name="merge_contacts">Объединить контакты</string>
+    <string name="merging_contacts">Объединение контактов\u2026</string>
+    <string name="searching_duplicated_contacts">Поиск повторяющихся контактов\u2026</string>
+    <string name="no_duplicated_contacts">Нет повторяющихся контактов</string>
+    <string name="give_up_merging">Остановить слияние контактов?</string>
+    <string name="give_up">Остановить слияние</string>
+    <string name="merge_complete">Слияние завершено.</string>
+    <string name="sim_email_full">SХранилище адресов SIM-карты заполнено.</string>
+    <string name="sim_anr_full">Хранилище номеров SIM-карты заполнено.</string>
+    <string name="merge_fail">Не удалось выполнить слияние.</string>
 </resources>
